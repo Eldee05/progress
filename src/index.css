@@ -12,8 +12,8 @@ body {
 }
 
 .steps {
-  width: 600px;
-  background-color: #f7f7f7;
+  width: 500px;
+  background-color: #e4e5dc8d;
   border-radius: 7px;
   padding: 25px 100px;
   margin: 100px auto;
@@ -80,7 +80,7 @@ h3 {
 }
 
 .close {
-  position: absolute;
+  /*position: absolute;*/
   top: 16px;
   right: 16px;
   border: none;
